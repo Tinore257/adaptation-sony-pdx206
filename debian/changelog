@@ -1,6 +1,7 @@
-adaptation-sony-pdx206 (0.0.1+git20260802123049.cc4b9e3.release) trixie; urgency=medium
+adaptation-sony-pdx206 (0.0.1+git20261110171300.a605260.release) trixie; urgency=medium
 
   [ Tinore257 ]
+  * Add config for persistent mac address
   * Update public key
 
   [ ArchieMeng ]
