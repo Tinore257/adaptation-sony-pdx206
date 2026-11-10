@@ -1,5 +1,8 @@
 adaptation-sony-pdx206 (0.0.1+git20260802123049.cc4b9e3.release) trixie; urgency=medium
 
+  [ Tinore257 ]
+  * Update public key
+
   [ ArchieMeng ]
   * Add changelogs and workflows
   * Update deployment action versions
