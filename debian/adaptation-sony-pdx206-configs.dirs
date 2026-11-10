@@ -1,4 +1,5 @@
 /etc/udev/rules.d
+/etc/NetworkManager/conf.d
 /usr/share/keyrings
 /usr/lib/adaptation-sony-pdx206
 /mnt/idd
