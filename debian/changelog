@@ -1,8 +1,10 @@
-adaptation-sony-pdx206 (0.0.1+git20261110171300.a605260.release) trixie; urgency=medium
+adaptation-sony-pdx206 (0.0.1+git202611110158.fb1b075.release) trixie; urgency=medium
 
-  [ Tinore257 ]
+  * Add NetworkMamager PMF Workaround
   * Add config for persistent mac address
   * Update public key
+
+ -- Tino Reith <ti.re.onit@outlook.de>  Wed, 11 Nov 2026 10:01:58 +0100
 
   [ ArchieMeng ]
   * Add changelogs and workflows
